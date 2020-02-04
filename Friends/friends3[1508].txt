@@ -1,0 +1,11 @@
+5
+A|y|rutgers
+B|y|rutgers
+C|n
+D|y|rutgers
+E|y|rutgers
+A|B
+B|C
+C|D
+D|E
+E|A

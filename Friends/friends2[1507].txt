@@ -1,0 +1,6 @@
+3
+B|n
+A|y|rutgers
+C|y|rutgers
+A|B
+B|C
